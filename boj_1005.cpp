@@ -42,6 +42,7 @@ int main(void){
             int t;
             cin >> t;
             build.push_back(t);
+        }
         rule.resize(n+1);
         for(int i=0; i<r; i++){
             int a, b;
