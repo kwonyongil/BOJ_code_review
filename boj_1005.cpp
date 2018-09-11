@@ -4,9 +4,7 @@
 #include <functional>
 
 using namespace std;
-
 int answer = 0;
-
 vector<int> arr;
 
 int time_sum(int n,vector<int> build, vector<vector<int>> rule){
